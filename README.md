@@ -1,5 +1,7 @@
 # SpaceGame
 
+![](https://media.giphy.com/media/ygIJ3jw5bPy0D7fFJG/giphy.gif)<br />
+
 2.5D космическая аркада.
 
 В проекте придерживался принципов SOLID.
